@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">LeiYu's profile</h1>
+<p align="center">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=IceLeiYu&show_icons=true&theme=react"/>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceLeiYu&layout=compact&langs_count=8&theme=react"/>
+  </a>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="IceLeiYu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IceLeiYu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
-<!--
-**IceLeiYu/IceLeiYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- industrial high school student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+This Readme is refer to Young's
 -->
