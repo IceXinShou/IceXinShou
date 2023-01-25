@@ -3,11 +3,11 @@
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=IceLeiYu&show_icons=true&theme=react"/>
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceLeiYu&layout=compact&langs_count=8&theme=react"/>
+    <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceLeiYu&layout=compact&theme=react/>
   </a>
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="IceLeiYu's streak" src="https://github-readme-stats.vercel.app/api?username=IceLeiYu&show_icons=true&theme=radical"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="IceLeiYu's streak" src="https://github-readme-stats.vercel.app/api?username=IceLeiYu&show_icons=true&theme=react"/>
   </a>
 </p>
 
