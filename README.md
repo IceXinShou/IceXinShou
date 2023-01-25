@@ -1,6 +1,6 @@
 <h1 align="center">XinShou's profile</h1>
 <p align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=IceLeiYu&show_icons=true&theme=react"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceLeiYu&layout=compact&theme=radical">
   <br />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceLeiYu&layout=compact&theme=react/>
