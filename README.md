@@ -6,7 +6,8 @@
 對於未來方向還很迷茫。
 
 目前在這裡練習資安
-<script src="https://tryhackme.com/badge/3202122"></script>
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/icexinshou.png)
 
 ---
 
