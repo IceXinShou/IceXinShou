@@ -5,10 +5,11 @@
 
 對於未來方向還很迷茫。
 
+<!--
 目前在這裡練習資安
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/icexinshou.png)
-
+-->
 ---
 
 ### GitHub 資訊
@@ -24,4 +25,4 @@
 
 ### 聯絡方式
 Discord: [xs.\_.b](https://discord.gg/ZV3PaCscc7)
-Email: xinshou@xserver.tw
+Email: icexinshou@gmail.com / xinshou@xserver.tw
