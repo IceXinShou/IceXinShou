@@ -26,4 +26,4 @@
 
 ### 聯絡方式
 Discord: [xs.\_.b](https://discord.gg/ZV3PaCscc7)
-Email: icexinshou@gmail.com / xinshou@xserver.tw
+Email: icexinshou@gmail.com / contact@xinshou.tw
